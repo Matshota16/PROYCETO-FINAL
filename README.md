@@ -10,13 +10,13 @@ Desarrollar un programa que te pida un registro de edad, si eres mayor de edad p
 
 solicitar datos del usuario para el registro
 * solicitar edad del usuario.
-* 
+ 
 -edad igual o mayor a 18 años.
 
 * solicitar cuantas veces quiere comprar.
 * solicitar que requiere comprar.
 * solicitar que modelo del producto quiere comprar.
-* 
+
 -edad menor a 18 años.
 
 * solicitar nuevamente la edad.
