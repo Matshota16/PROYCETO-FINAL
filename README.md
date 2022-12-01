@@ -52,7 +52,7 @@ solicitar datos del usuario para el registro
 ~~~~~~~~
 
 ## Etapa 3.
-  ![]()
+  ![](https://github.com/Matshota16/PROYCETO-FINAL/blob/2df662f428a9fa24fc775e8bfc8d59aca39a93af/descarga.jfif)
   
  ## Etapa 4, Desarollo de la solucion
 Desarollo de la solución 
