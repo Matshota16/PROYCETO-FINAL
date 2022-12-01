@@ -52,7 +52,7 @@ solicitar datos del usuario para el registro
 ~~~~~~~~
 
 ## Etapa 3.
-  ![]()
+  ![](https://github.com/Matshota16/PROYCETO-FINAL/blob/431cd8999667e9d64cd5556d1b3f2746a4854f9b/WhatsApp%20Image%202022-11-30%20at%2010.16.14%20PM.jpeg)
   
  ## Etapa 4, Desarollo de la solucion
 Desarollo de la solución 
