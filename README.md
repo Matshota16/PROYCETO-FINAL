@@ -26,23 +26,27 @@ solicitar datos del usuario para el registro
 -salida:
 
 ~~~~~
-+------------------------------------------------------------------+
-| almacenes don baraton                                            |
-+------------------------------------------------------------------+
-| 1.Hola, Bienvenido a almacenes don baraton, ingrese su edad: 17             |
-| 2.ingrese el numero de empleados:  el numero de empleados es 300 |
-| 3.ingrese el nombre del empleado:    Mateo                       |
-| 4.ingrese el apellido paterno:    cordova                        |
-| 5.ingrese el apellido materno:   Nativo                          |
-| 6.ingrese el rfc:           12345678                             |
-| 7.ingrese el curp: mate12334drfgfdh                              |
-| 8.ingrese el correo electronico: Sr.NavikOficial16@gmail.com     |
-| 9.ingrese el numero de telefono: 1223334422                      |
-| 10.ingrese el numero de contrato del empleado: 12                |
-|11. introduce la seleccion a la que pertenece: contador           |
-|12.ingrese cuanto gana semanalmente: 1200                         |
-|13.ingrese los años que lleva el empleado en la empresa:  1       |
-|14. su salario neto es: 1137.40264                                |
-|15. su nomina por la empresa es: 1137.40264                       |
-+------------------------------------------------------------------+
++-----------------------------------------------------------------------------+
+| almacenes don baraton                                                       |
++-----------------------------------------------------------------------------+
+| 1.Hola, Bienvenido a almacenes don baraton, ingrese su edad: 18             |
+| 2.Por favor ahora ingrese la cantidad de veces que quiere comprar: 1        |
+| 3.seleecione que requiere comprar                                           |
+|       1. laptops.                                                           |
+|       2. consolas.                                                          |
+|       3. dispositivos moviles.                                              |
+|       4. computadoras de escritorio.                                        |                          
+|       5. accesorios.                                                        |
+| 4.Selecione una opcion:    1                                                |
+| 5.solo se encontraron laptops de esta categoria:                            |
+|       1. GAYmer.                                                            |
+| 6.Elija una opcion: 1                                                       |
+| 7.Que modelo quieres comprar:                                               |
+|        a. MSI                                                               |
+|        b. ACER                                                              |
+|        c. ASUS                                                              |
+|        d. LENOVO                                                            |
+| 8:Elija:                                                                    |
+| 9:Disfrute de su dipositivo MSI                                             |
++-----------------------------------------------------------------------------+
 ~~~~~~~~
