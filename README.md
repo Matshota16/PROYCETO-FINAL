@@ -46,7 +46,15 @@ solicitar datos del usuario para el registro
 |        b. ACER                                                              |
 |        c. ASUS                                                              |
 |        d. LENOVO                                                            |
-| 8:Elija:                                                                    |
+| 8:Elija:      a                                                             |
 | 9:Disfrute de su dipositivo MSI                                             |
 +-----------------------------------------------------------------------------+
 ~~~~~~~~
+
+## Etapa 3.
+  ![]()
+  
+ ## Etapa 4, Desarollo de la solucion
+Desarollo de la solución 
+![]()
+
